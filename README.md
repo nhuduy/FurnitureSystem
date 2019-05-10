@@ -26,8 +26,8 @@ It was last version built by our.
 ## Authors
 * **Tran Nhu Duy**            - (https://github.com/nhuduy)
 * **Nguyen Thanh Hoang Quy**  - (https://github.com/)
-* **Lu Van Tan Hung**         - (https://github.com/)
-* **Dang Duong Khang**        - (https://github.com/)
+* **Lu Van Tan Hung**         - (https://github.com/tanhung18)
+* **Dang Duong Khang**        - (https://github.com/duonkhang)
 See also the list of [contributors](https://github.com/nhuduy/FurnitureSystem/contributors) who participated in this project.
 
 ## License
