@@ -28,7 +28,7 @@ It was last version built by our.
 * **[Tran Nhu Duy](https://github.com/nhuduy)**            - 
 * **[Nguyen Thanh Hoang Quy](https://github.com/yuppaoh)**
 * **[Lu Van Tan Hung](https://github.com/tanhung18)**
-See also the list of [contributors](https://github.com/nhuduy/FurnitureSystem/contributors) who participated in this project.
+* See also the list of [contributors](https://github.com/nhuduy/FurnitureSystem/contributors) who participated in this project.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/nhuduy/FurnitureSystem/blob/master/LICENSE) file for details
