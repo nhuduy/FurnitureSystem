@@ -14,7 +14,12 @@ JDK 8 or later
 ```
 ### Installing
 ```
-Extrax
+1. Install JVM, JRE.
+2. Install SQL Server.
+3. Install JDBC.
+4. Extract file zip, go to "/FurnitureSystem/dist/" 
+5. Open Terminal/ Command Line, type "java Client.jar" to run client management. 
+   type "java Server.jar to run server management"
 ```
 ## Built With
 
@@ -25,9 +30,10 @@ Please read [CONTRIBUTING.md](#) for details on our code of conduct, and the pro
 It was last version built by our.
 
 ## Authors
-* **[Tran Nhu Duy](https://github.com/nhuduy)**            - 
+* **[Tran Nhu Duy](https://github.com/nhuduy)**
 * **[Nguyen Thanh Hoang Quy](https://github.com/yuppaoh)**
 * **[Lu Van Tan Hung](https://github.com/tanhung18)**
+
 * See also the list of [contributors](https://github.com/nhuduy/FurnitureSystem/contributors) who participated in this project.
 
 ## License
